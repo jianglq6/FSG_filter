@@ -1,0 +1,2 @@
+addpath('./jsonlab')
+addpath('./mexcdf')
