@@ -2,8 +2,13 @@
  *
  * This function is used for medium parameterization.
  *
+ * Authors: Luqian Jiang <jianglq@mail.ustc.edu.cn>
+ *          Wei Zhang <zhangwei@sustech.edu.cn>
+ *
+ * Copyright (c) 2021 zwlab
  *
  * ChangeLog: 
+ *    09/2021: Created by Luqian Jiang 
  *
  ***************************************************************************/
 #include <iostream>
