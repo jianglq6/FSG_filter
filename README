@@ -57,4 +57,11 @@
   3) run run_*.sh
   4) use mfiles/.m to show results
 
+5 Availability and use of the program package
+
+  If you use this code for your own research, please cite:
+
+ * Jiang L, Tian J, Lei T, et al. Coupling Fully Staggered Grids via Numerical 
+    Filtering for Wave Propagation Simulation[J]. Geophysics, 2025, 90(3): 1-45.
+
 # vim:ft=conf:ts=4:sw=4:nu:et:ai:
